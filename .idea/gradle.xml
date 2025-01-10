@@ -5,21 +5,13 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../gradle-7.5" />
-        <option name="gradleJvm" value="21" />
+        <option name="gradleHome" value="$USER_HOME$/gradle-7.5" />
+        <option name="gradleJvm" value="temurin-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ejemplo01" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../gradle-7.5" />
-        <option name="gradleJvm" value="21" />
-        <option name="modules">
-          <set>
             <option value="$PROJECT_DIR$/ejemplo01" />
+            <option value="$PROJECT_DIR$/fractal-cliente-dll" />
           </set>
         </option>
       </GradleProjectSettings>
